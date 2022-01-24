@@ -1,0 +1,45 @@
+body{
+    text-align: center;
+    background-color:orange;
+}
+img{
+    width: 400px;
+}
+#favourite sport{
+    width: 800px;
+    margin-left: 250px;
+    color: darkviolet;
+    font-size: 20px;
+}
+why do i love this sport{
+    width: 800px;
+    text-align: left;
+    margin-left: 540px;
+    color: darkgreen;
+    font: 20px;
+}
+li:nth-child(2){
+    color: red;
+}
+li:nth-child(3){
+    color: blue;
+}
+hr{
+    background-color: black;
+}
+#Button{
+    background-color: green;
+    width: 150px;
+    height: 20px;
+    margin-top: 15px;
+    margin-left: 590px;
+    border-radius: 5px;
+    vertical-align: auto;
+    border: 1px solid black;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+    
